@@ -64,7 +64,7 @@ les deux sources :
 
 ```js
 const res = await fetch(
-  'https://raw.githubusercontent.com/<org>/prefecture-delays/main/data/delays-latest.json'
+  'https://raw.githubusercontent.com/umaki000/prefecture-delays/main/data/delays-latest.json'
 );
 const { platforms } = await res.json();
 
@@ -76,7 +76,7 @@ console.log(`${lyon.nom} : ${lyon.delaiMedianMois} mois (sur ${lyon.dossiersAbou
 ```python
 import json, urllib.request
 
-url = "https://raw.githubusercontent.com/<org>/prefecture-delays/main/data/delays-latest.json"
+url = "https://raw.githubusercontent.com/umaki000/prefecture-delays/main/data/delays-latest.json"
 data = json.load(urllib.request.urlopen(url))
 fastest = min((p for p in data["platforms"] if p["delaiMedianMois"]), key=lambda p: p["delaiMedianMois"])
 print(fastest["nom"], fastest["delaiMedianMois"])
