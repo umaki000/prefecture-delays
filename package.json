@@ -1,0 +1,17 @@
+{
+  "name": "prefecture-delays",
+  "version": "1.0.0",
+  "description": "French naturalisation processing delays, by préfecture — open data + collector script.",
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "collect": "node scripts/collect.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<org>/prefecture-delays"
+  }
+}

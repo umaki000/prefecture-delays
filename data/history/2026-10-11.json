@@ -1,0 +1,551 @@
+{
+  "generatedAt": "2026-10-11T15:52:11.759Z",
+  "source": "naturalisation-facile.fr",
+  "sourceUrl": "https://naturalisation-facile.fr/prefectures",
+  "methodology": "Délai médian entre le dépôt du dossier sur l'ANEF et le décret de naturalisation au Journal officiel, calculé sur les dossiers aboutis suivis par témoignage public volontaire (pas un échantillon aléatoire). 'insufficientData: true' signale une plateforme avec trop peu de dossiers aboutis pour un médian fiable : seule l'ancienneté médiane des dossiers en cours est alors fournie.",
+  "platformCount": 34,
+  "departmentCount": 99,
+  "platforms": [
+    {
+      "slug": "ajaccio",
+      "nom": "Ajaccio",
+      "departementChefLieu": "2A",
+      "departements": [
+        "2A",
+        "2B"
+      ],
+      "temoignagesTotal": 162,
+      "delaiMedianMois": 7,
+      "dossiersAboutis": 12,
+      "ancienneteMedianeMois": 4.6,
+      "derniereMajSource": "2026-10-11 05:10:05",
+      "insufficientData": false
+    },
+    {
+      "slug": "amiens",
+      "nom": "Amiens",
+      "departementChefLieu": "80",
+      "departements": [
+        "80",
+        "02",
+        "60"
+      ],
+      "temoignagesTotal": 750,
+      "delaiMedianMois": 29.1,
+      "dossiersAboutis": 42,
+      "ancienneteMedianeMois": 24,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "besancon",
+      "nom": "Besançon",
+      "departementChefLieu": "25",
+      "departements": [
+        "25",
+        "39",
+        "70",
+        "90"
+      ],
+      "temoignagesTotal": 511,
+      "delaiMedianMois": 11.3,
+      "dossiersAboutis": 38,
+      "ancienneteMedianeMois": 8.1,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "bobigny",
+      "nom": "Bobigny",
+      "departementChefLieu": "93",
+      "departements": [
+        "93"
+      ],
+      "temoignagesTotal": 1601,
+      "delaiMedianMois": 36.3,
+      "dossiersAboutis": 65,
+      "ancienneteMedianeMois": 29.5,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "bordeaux",
+      "nom": "Bordeaux",
+      "departementChefLieu": "33",
+      "departements": [
+        "33",
+        "24",
+        "40",
+        "47",
+        "64"
+      ],
+      "temoignagesTotal": 957,
+      "delaiMedianMois": 27.1,
+      "dossiersAboutis": 70,
+      "ancienneteMedianeMois": 24.9,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "caen",
+      "nom": "Caen",
+      "departementChefLieu": "14",
+      "departements": [
+        "14",
+        "50",
+        "61"
+      ],
+      "temoignagesTotal": 541,
+      "delaiMedianMois": 19.8,
+      "dossiersAboutis": 26,
+      "ancienneteMedianeMois": 14.1,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "cergy",
+      "nom": "Cergy-Pontoise",
+      "departementChefLieu": "95",
+      "departements": [
+        "95"
+      ],
+      "temoignagesTotal": 1248,
+      "delaiMedianMois": 32.1,
+      "dossiersAboutis": 83,
+      "ancienneteMedianeMois": 27.5,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "clermont",
+      "nom": "Clermont-Ferrand",
+      "departementChefLieu": "63",
+      "departements": [
+        "63",
+        "03",
+        "15",
+        "43"
+      ],
+      "temoignagesTotal": 420,
+      "delaiMedianMois": 32.8,
+      "dossiersAboutis": 23,
+      "ancienneteMedianeMois": 26.5,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "creteil",
+      "nom": "Créteil",
+      "departementChefLieu": "94",
+      "departements": [
+        "94"
+      ],
+      "temoignagesTotal": 2663,
+      "delaiMedianMois": 33.9,
+      "dossiersAboutis": 136,
+      "ancienneteMedianeMois": 25.1,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "dijon",
+      "nom": "Dijon",
+      "departementChefLieu": "21",
+      "departements": [
+        "21",
+        "58",
+        "71",
+        "89"
+      ],
+      "temoignagesTotal": 792,
+      "delaiMedianMois": 18,
+      "dossiersAboutis": 43,
+      "ancienneteMedianeMois": 9.7,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "evry",
+      "nom": "Évry",
+      "departementChefLieu": "91",
+      "departements": [
+        "91"
+      ],
+      "temoignagesTotal": 1095,
+      "delaiMedianMois": 35,
+      "dossiersAboutis": 60,
+      "ancienneteMedianeMois": 29.5,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "fort-de-france",
+      "nom": "Fort-de-France",
+      "departementChefLieu": "972",
+      "departements": [
+        "972"
+      ],
+      "temoignagesTotal": 4,
+      "delaiMedianMois": null,
+      "dossiersAboutis": null,
+      "ancienneteMedianeMois": 5,
+      "derniereMajSource": "2026-10-11 05:10:05",
+      "insufficientData": true
+    },
+    {
+      "slug": "grenoble",
+      "nom": "Grenoble",
+      "departementChefLieu": "38",
+      "departements": [
+        "38",
+        "26",
+        "73",
+        "74"
+      ],
+      "temoignagesTotal": 1048,
+      "delaiMedianMois": 34.1,
+      "dossiersAboutis": 75,
+      "ancienneteMedianeMois": 28.6,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "lille",
+      "nom": "Lille",
+      "departementChefLieu": "59",
+      "departements": [
+        "59",
+        "62"
+      ],
+      "temoignagesTotal": 697,
+      "delaiMedianMois": 20.5,
+      "dossiersAboutis": 30,
+      "ancienneteMedianeMois": 27.4,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "limoges",
+      "nom": "Limoges",
+      "departementChefLieu": "87",
+      "departements": [
+        "87",
+        "19",
+        "23"
+      ],
+      "temoignagesTotal": 359,
+      "delaiMedianMois": 16.8,
+      "dossiersAboutis": 26,
+      "ancienneteMedianeMois": 10.2,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "lyon",
+      "nom": "Lyon",
+      "departementChefLieu": "69",
+      "departements": [
+        "69",
+        "01",
+        "07",
+        "42"
+      ],
+      "temoignagesTotal": 2358,
+      "delaiMedianMois": 41.3,
+      "dossiersAboutis": 107,
+      "ancienneteMedianeMois": 36.3,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "mamoudzou",
+      "nom": "Mamoudzou",
+      "departementChefLieu": "976",
+      "departements": [
+        "976"
+      ],
+      "temoignagesTotal": 33,
+      "delaiMedianMois": null,
+      "dossiersAboutis": null,
+      "ancienneteMedianeMois": 16.1,
+      "derniereMajSource": "2026-10-11 05:10:05",
+      "insufficientData": true
+    },
+    {
+      "slug": "marseille",
+      "nom": "Marseille",
+      "departementChefLieu": "13",
+      "departements": [
+        "13",
+        "04",
+        "05",
+        "84"
+      ],
+      "temoignagesTotal": 1467,
+      "delaiMedianMois": 20.2,
+      "dossiersAboutis": 126,
+      "ancienneteMedianeMois": 15.8,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "melun",
+      "nom": "Melun",
+      "departementChefLieu": "77",
+      "departements": [
+        "77"
+      ],
+      "temoignagesTotal": 873,
+      "delaiMedianMois": 29.8,
+      "dossiersAboutis": 64,
+      "ancienneteMedianeMois": 22,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "montpellier",
+      "nom": "Montpellier",
+      "departementChefLieu": "34",
+      "departements": [
+        "34",
+        "11",
+        "30",
+        "48",
+        "66"
+      ],
+      "temoignagesTotal": 960,
+      "delaiMedianMois": 29.2,
+      "dossiersAboutis": 44,
+      "ancienneteMedianeMois": 24.4,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "nancy",
+      "nom": "Nancy",
+      "departementChefLieu": "54",
+      "departements": [
+        "54",
+        "57",
+        "55",
+        "88"
+      ],
+      "temoignagesTotal": 668,
+      "delaiMedianMois": 27,
+      "dossiersAboutis": 44,
+      "ancienneteMedianeMois": 19.4,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "nanterre",
+      "nom": "Nanterre",
+      "departementChefLieu": "92",
+      "departements": [
+        "92"
+      ],
+      "temoignagesTotal": 2993,
+      "delaiMedianMois": 43.8,
+      "dossiersAboutis": 143,
+      "ancienneteMedianeMois": 37.8,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "nantes",
+      "nom": "Nantes",
+      "departementChefLieu": "44",
+      "departements": [
+        "44",
+        "49",
+        "53",
+        "72",
+        "85"
+      ],
+      "temoignagesTotal": 1328,
+      "delaiMedianMois": 34.4,
+      "dossiersAboutis": 86,
+      "ancienneteMedianeMois": 22,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "nice",
+      "nom": "Nice",
+      "departementChefLieu": "06",
+      "departements": [
+        "06",
+        "83"
+      ],
+      "temoignagesTotal": 581,
+      "delaiMedianMois": 37.1,
+      "dossiersAboutis": 22,
+      "ancienneteMedianeMois": 29.6,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "orleans",
+      "nom": "Orléans",
+      "departementChefLieu": "45",
+      "departements": [
+        "45",
+        "18",
+        "28",
+        "36",
+        "37",
+        "41"
+      ],
+      "temoignagesTotal": 610,
+      "delaiMedianMois": 31.1,
+      "dossiersAboutis": 41,
+      "ancienneteMedianeMois": 21.6,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "paris",
+      "nom": "Paris",
+      "departementChefLieu": "75",
+      "departements": [
+        "75"
+      ],
+      "temoignagesTotal": 7497,
+      "delaiMedianMois": 21.8,
+      "dossiersAboutis": 625,
+      "ancienneteMedianeMois": 13.7,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "poitiers",
+      "nom": "Poitiers",
+      "departementChefLieu": "86",
+      "departements": [
+        "86",
+        "16",
+        "17",
+        "79"
+      ],
+      "temoignagesTotal": 651,
+      "delaiMedianMois": 18.4,
+      "dossiersAboutis": 50,
+      "ancienneteMedianeMois": 14.7,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "reims",
+      "nom": "Reims",
+      "departementChefLieu": "51",
+      "departements": [
+        "51",
+        "08",
+        "10",
+        "52"
+      ],
+      "temoignagesTotal": 595,
+      "delaiMedianMois": 22.6,
+      "dossiersAboutis": 31,
+      "ancienneteMedianeMois": 15.7,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "rennes",
+      "nom": "Rennes",
+      "departementChefLieu": "35",
+      "departements": [
+        "35",
+        "22",
+        "29",
+        "56"
+      ],
+      "temoignagesTotal": 976,
+      "delaiMedianMois": 39,
+      "dossiersAboutis": 44,
+      "ancienneteMedianeMois": 34.3,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "rouen",
+      "nom": "Rouen",
+      "departementChefLieu": "76",
+      "departements": [
+        "76",
+        "27"
+      ],
+      "temoignagesTotal": 564,
+      "delaiMedianMois": 28.4,
+      "dossiersAboutis": 41,
+      "ancienneteMedianeMois": 20.5,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "saint-denis-reunion",
+      "nom": "Saint-Denis (La Réunion)",
+      "departementChefLieu": "974",
+      "departements": [
+        "974"
+      ],
+      "temoignagesTotal": 42,
+      "delaiMedianMois": null,
+      "dossiersAboutis": null,
+      "ancienneteMedianeMois": 20.3,
+      "derniereMajSource": "2026-10-11 05:10:05",
+      "insufficientData": true
+    },
+    {
+      "slug": "strasbourg",
+      "nom": "Strasbourg",
+      "departementChefLieu": "67",
+      "departements": [
+        "67",
+        "68"
+      ],
+      "temoignagesTotal": 456,
+      "delaiMedianMois": 35.6,
+      "dossiersAboutis": 23,
+      "ancienneteMedianeMois": 30.2,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "toulouse",
+      "nom": "Toulouse",
+      "departementChefLieu": "31",
+      "departements": [
+        "31",
+        "09",
+        "12",
+        "32",
+        "46",
+        "65",
+        "81",
+        "82"
+      ],
+      "temoignagesTotal": 1826,
+      "delaiMedianMois": 28.8,
+      "dossiersAboutis": 145,
+      "ancienneteMedianeMois": 20.3,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    },
+    {
+      "slug": "versailles",
+      "nom": "Versailles",
+      "departementChefLieu": "78",
+      "departements": [
+        "78"
+      ],
+      "temoignagesTotal": 2124,
+      "delaiMedianMois": 37.5,
+      "dossiersAboutis": 118,
+      "ancienneteMedianeMois": 27,
+      "derniereMajSource": "2026-10-11 05:10:04",
+      "insufficientData": false
+    }
+  ]
+}

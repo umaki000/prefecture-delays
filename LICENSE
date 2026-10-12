@@ -1,0 +1,47 @@
+Data license (data/): Open Database License (ODbL) v1.0
+=========================================================
+
+Copyright (c) France Naturalisation Infos / naturalisation-facile.fr
+
+The contents of the `data/` directory in this repository are made
+available under the Open Database License (ODbL) v1.0, whose full legal
+text is at:
+
+    https://opendatacommons.org/licenses/odbl/1-0/
+
+In short, you are free to share, create derivative works from, and adapt
+this data, including commercially, as long as you:
+
+  - Attribute: credit naturalisation-facile.fr (primary data producer) and
+    france-naturalisation.net (dataset maintainer), with a link to each.
+  - Share-Alike: if you publicly use an adapted/modified version of this
+    database, you must also offer it under the ODbL.
+  - Keep open: you may not impose further restrictions that would prevent
+    others from exercising the rights above.
+
+See the ODbL 1.0 full text linked above for the binding terms.
+
+
+Code license (scripts/): MIT
+=============================
+
+Copyright (c) 2026 France Naturalisation Infos
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to permit
+persons to whom the Software is furnished to do so, subject to the
+following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
