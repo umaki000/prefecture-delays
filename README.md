@@ -1,6 +1,6 @@
 # prefecture-delays
 
-![Last updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2F%3Corg%3E%2Fprefecture-delays%2Fmain%2Fdata%2Fdelays-latest.json&query=%24.generatedAt&label=last%20updated&color=blue)
+![Last updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fumaki000%2Fprefecture-delays%2Fmain%2Fdata%2Fdelays-latest.json&query=%24.generatedAt&label=last%20updated&color=blue)
 ![License: ODbL-1.0](https://img.shields.io/badge/license-ODbL--1.0-lightgrey)
 
 > French naturalisation processing delays, by préfecture / regional platform.
